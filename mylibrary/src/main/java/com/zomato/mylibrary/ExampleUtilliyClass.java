@@ -11,4 +11,9 @@ public class ExampleUtilliyClass
     {
         Log.i("", "");
     }
+
+    public static void testMethod2()
+    {
+        Log.i("", "");
+    }
 }
